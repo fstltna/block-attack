@@ -6,7 +6,7 @@ description: |
   Dr. Mario-style game
 
 grade: stable
-icon: block-attack_icon.png
+icon: blockattack_icon.png
 
 base: core18
 confinement: strict
